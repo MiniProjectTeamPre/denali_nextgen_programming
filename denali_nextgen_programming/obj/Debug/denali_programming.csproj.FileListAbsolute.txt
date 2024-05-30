@@ -1,0 +1,13 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_programming\denali_programming\bin\Debug\denali_programming.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_programming\denali_programming\bin\Debug\denali_programming.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_programming\denali_programming\bin\Debug\denali_programming.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_programming\denali_programming\obj\Debug\denali_programming.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_programming\denali_programming\obj\Debug\denali_programming.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\denali_programming\denali_programming\obj\Debug\denali_programming.pdb
+D:\Projects C#\mini_projeck_template\denali_programming\denali_programming\bin\Debug\denali_programming.exe.config
+D:\Projects C#\mini_projeck_template\denali_programming\denali_programming\obj\Debug\denali_programming.exe
+D:\Projects C#\mini_projeck_template\denali_programming\denali_programming\obj\Debug\denali_programming.pdb
+D:\Projects C#\mini_projeck_template\denali_nextgen_programming\denali_nextgen_programming\bin\Debug\denali_programming.exe.config
+D:\Projects C#\mini_projeck_template\denali_nextgen_programming\denali_nextgen_programming\obj\Debug\denali_programming.exe
+D:\Projects C#\mini_projeck_template\denali_nextgen_programming\denali_nextgen_programming\obj\Debug\denali_programming.pdb
+D:\Projects C#\mini_projeck_template\denali_nextgen_programming\denali_nextgen_programming\bin\Debug\denali_nextgen_programming.exe.config

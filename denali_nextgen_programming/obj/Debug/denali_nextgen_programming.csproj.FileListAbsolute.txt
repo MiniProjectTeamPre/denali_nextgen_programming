@@ -1,0 +1,6 @@
+D:\Projects C#\mini_projeck_template\denali_nextgen_programming\denali_nextgen_programming\bin\Debug\denali_nextgen_programming.exe.config
+D:\Projects C#\mini_projeck_template\denali_nextgen_programming\denali_nextgen_programming\bin\Debug\denali_nextgen_programming.exe
+D:\Projects C#\mini_projeck_template\denali_nextgen_programming\denali_nextgen_programming\bin\Debug\denali_nextgen_programming.pdb
+D:\Projects C#\mini_projeck_template\denali_nextgen_programming\denali_nextgen_programming\obj\Debug\denali_nextgen_programming.csprojResolveAssemblyReference.cache
+D:\Projects C#\mini_projeck_template\denali_nextgen_programming\denali_nextgen_programming\obj\Debug\denali_nextgen_programming.exe
+D:\Projects C#\mini_projeck_template\denali_nextgen_programming\denali_nextgen_programming\obj\Debug\denali_nextgen_programming.pdb
